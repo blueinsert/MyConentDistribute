@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 3086873051
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0d3c196d15536915bd9443f987c12f5c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 15c707214f3317e7c346ed1f2e91284a
+HashAppended: 1
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a79441f348de89743a2939f4d699eac1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.TemporalAA/Settings
+Assets:
+- Assets/GameProject/RuntimeAssets/Model/BasketBall_AB/Ball/BasketBall.shadergraph
+- "Assets/GameProject/RuntimeAssets/Model/BasketBall_AB/Ball/\u7BEE\u7403.fbx"
+- Assets/GameProject/RuntimeAssets/Model/BasketBall_AB/Basket/BasketPrefab.prefab
+- Assets/GameProject/RuntimeAssets/Model/BasketBall_AB/Ball/MetalRoughness.png
+- Assets/GameProject/RuntimeAssets/Model/BasketBall_AB/Ball/Normal_Bake.jpg
+- "Assets/GameProject/RuntimeAssets/Model/BasketBall_AB/Basket/\u84DD\u7F51.fbx"
+- Assets/GameProject/RuntimeAssets/Model/BasketBall_AB/Basket/Normal_Bake.jpg
+- Assets/GameProject/RuntimeAssets/Model/BasketBall_AB/Basket/MetalRoughness.png
+- Assets/GameProject/RuntimeAssets/Model/BasketBall_AB/Ball/BasketBallPrefab.prefab
+- Assets/GameProject/RuntimeAssets/Model/BasketBall_AB/Basket/Diffuse_Bake.jpg
+- Assets/GameProject/RuntimeAssets/Model/BasketBall_AB/Basket/Basket.shadergraph
+- Assets/GameProject/RuntimeAssets/Model/BasketBall_AB/Ball/Diffuse_Bake.jpg
+Dependencies: []

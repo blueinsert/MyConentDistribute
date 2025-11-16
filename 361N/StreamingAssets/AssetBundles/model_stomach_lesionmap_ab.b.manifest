@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1862601768
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5bfeb7012f938b3caa609280318dc1e2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+HashAppended: 1
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameProject/RuntimeAssets/Model/Stomach_LesionMap_AB/Textures/StomachBaseColor_LesionMap.png
+- Assets/GameProject/RuntimeAssets/Model/Stomach_LesionMap_AB/Textures/Stomach_region_mask.png
+Dependencies: []

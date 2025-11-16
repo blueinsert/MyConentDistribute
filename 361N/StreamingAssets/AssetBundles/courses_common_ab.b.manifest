@@ -1,0 +1,178 @@
+ManifestFileVersion: 0
+CRC: 1817478794
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2be2976954f997aed78315c58ff98d5b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d0f963a2659ab05e36f58e7eda43d07d
+HashAppended: 1
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 84
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c2cf8c84b8b045f41b8976f2ba14c2e5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bfda56da833e2384a9677cd3c976a436, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9cbde5357bcfc17498a5bfd264205c12, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 695ae3cf1ec05a2498f5b79c2d163e2b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d21dcc2386d650c4597f3633c75a1f98, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 14c49244e6513bb48bc3978953314805, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bf37cf6573337274792e4067d386fa25, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d0fc6f5187a81dc47999eefade6f0935, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc7ae0a1f0ff5c94b9ce6f99ff17fcc9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 43f01576de18afc44aa19bc4acadb193, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 96f326f601d0348458ee1c8508b63265, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 172515602e62fb746b5d573b38a5fe58, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a79441f348de89743a2939f4d699eac1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7c09a36ac73d7284b8076399a683f42e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 030f85c3f73729f4f976f66ffb23b875, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 97c23e3b12dc18c42a140437e53d3951, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2d407d27f91f2b04080ca293286f3eb3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 77eae18c8be4dfb439b6d6c19dcbfb2c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e5a9c8ba7e350cc49bfd2757ef9f7f63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f9b4b17f74f94874ba8694f8594f4e81, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 215
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 320
+  Script: {instanceID: 0}
+- Class: 328
+  Script: {instanceID: 0}
+- Class: 329
+  Script: {instanceID: 0}
+- Class: 171741748
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: bluebean.ProjectE.NativeBoneWeightList
+- AssemblyName: Assembly-CSharp
+  ClassName: bluebean.ProjectE.NativeByteList
+- AssemblyName: Assembly-CSharp
+  ClassName: bluebean.UGFramework.UI.TimelineStateDesc
+- AssemblyName: Assembly-CSharp
+  ClassName: bluebean.UGFramework.UI.UIStateDesc
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.BoolParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.ClampedFloatParameter
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.HDRACESPresetParameter
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.NeutralRangeReductionModeParameter
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.TemporalAA/Settings
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.TonemappingModeParameter
+- AssemblyName: Unity.Timeline
+  ClassName: UnityEngine.Timeline.MarkerList
+- AssemblyName: Unity.Timeline
+  ClassName: UnityEngine.Timeline.TimelineAsset/EditorSettings
+- AssemblyName: Unity.Timeline
+  ClassName: UnityEngine.Timeline.TimelineClip
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.BoneWeight1
+Assets:
+- Assets/GameProject/RuntimeAssets/Courses/Common_AB/Instruments/EndoscopeLightPrefab.prefab
+- Assets/GameProject/RuntimeAssets/Courses/Common_AB/Endoscope/cross section.asset
+- Assets/GameProject/RuntimeAssets/Courses/Common_AB/Scene/PipelineStraightPrefab.prefab
+- Assets/GameProject/RuntimeAssets/Courses/Common_AB/Instruments/BiopsyForcepsTimeline_Open.playable
+- Assets/GameProject/RuntimeAssets/Courses/Common_AB/Scene/PipelineSPrefab.prefab
+- Assets/GameProject/RuntimeAssets/Courses/Common_AB/Endoscope/EndoscopeGraphicPrefab.prefab
+- Assets/GameProject/RuntimeAssets/Courses/Common_AB/Scene/Global Volume Profile.asset
+- Assets/GameProject/RuntimeAssets/Courses/Common_AB/Instruments/ColliderCheckerPrefab.prefab
+- Assets/GameProject/RuntimeAssets/Courses/Common_AB/Instruments/BiopsyForcepsPrefab.prefab
+- Assets/GameProject/RuntimeAssets/Courses/Common_AB/Scene/GameEndGatePrefab.prefab
+- Assets/GameProject/RuntimeAssets/Courses/Common_AB/Instruments/BiopsyForcepsAnimator.controller
+- Assets/GameProject/RuntimeAssets/Courses/Common_AB/Scene/PipelineYPrefab.prefab
+- Assets/GameProject/RuntimeAssets/Courses/Common_AB/Scene/CourseSceneRoot.prefab
+- Assets/GameProject/RuntimeAssets/Courses/Common_AB/Instruments/ElectrosurgicalKnifePrefab.prefab
+- Assets/GameProject/RuntimeAssets/Courses/Common_AB/Scene/SceneSPrefab.prefab
+- Assets/GameProject/RuntimeAssets/Courses/Common_AB/Scene/PipelineCPrefab.prefab
+- Assets/GameProject/RuntimeAssets/Courses/Common_AB/Endoscope/EndoscopePrefab2.prefab
+- Assets/GameProject/RuntimeAssets/Courses/Common_AB/Scene/SceneCameraOutput.renderTexture
+- Assets/GameProject/RuntimeAssets/Courses/Common_AB/Endoscope/EndoscopePrefab.prefab
+- Assets/GameProject/RuntimeAssets/Courses/Common_AB/Instruments/InjectionNeedlePrefab.prefab
+- Assets/GameProject/RuntimeAssets/Courses/Common_AB/Instruments/BiopsyForcepsTimeline_Close.playable
+- Assets/GameProject/RuntimeAssets/Courses/Common_AB/Scene/SceneCPrefab.prefab
+- Assets/GameProject/RuntimeAssets/Courses/Common_AB/Endoscope/EndoscopeParamsAsset.asset
+- Assets/GameProject/RuntimeAssets/Courses/Common_AB/Scene/SceneStraightPrefab.prefab
+Dependencies:
+- F:/WorkPlace/361N/Client/TargetProject/Build/AssetBundles/WebGL/material_ab_28de452be7520509d20923f369ae5b7a.b
+- F:/WorkPlace/361N/Client/TargetProject/Build/AssetBundles/WebGL/model_basketball_ab_0d3c196d15536915bd9443f987c12f5c.b
+- F:/WorkPlace/361N/Client/TargetProject/Build/AssetBundles/WebGL/model_biopsyforceps_ab_86e78b7f73335df050530d7ce2488912.b
+- F:/WorkPlace/361N/Client/TargetProject/Build/AssetBundles/WebGL/model_common_ab_74023827b77874c118060386db95a62e.b
+- F:/WorkPlace/361N/Client/TargetProject/Build/AssetBundles/WebGL/model_endoscope_ab_88410dfdf3abcb78c8607631447702dd.b
+- F:/WorkPlace/361N/Client/TargetProject/Build/AssetBundles/WebGL/physicmaterial_ab_56d9063550abbcbd351adf698439870d.b
+- F:/WorkPlace/361N/Client/TargetProject/Build/AssetBundles/WebGL/shader_ab_b118cab8f49d7c292f6fb2d22a40419c.b
+- F:/WorkPlace/361N/Client/TargetProject/Build/AssetBundles/WebGL/video_blackhole_ab_f608f7efaa8c27174aad8c8067566c13.b

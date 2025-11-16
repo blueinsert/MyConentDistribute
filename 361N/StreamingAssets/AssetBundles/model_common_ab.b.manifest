@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 4000211407
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 74023827b77874c118060386db95a62e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 13ecf1dad786ad7a1b904d403a0b35ee
+HashAppended: 1
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameProject/RuntimeAssets/Model/Common_AB/bunny.obj
+- Assets/GameProject/RuntimeAssets/Model/Common_AB/pipeline_y.obj
+- Assets/GameProject/RuntimeAssets/Model/Common_AB/pipeline_c.obj
+- Assets/GameProject/RuntimeAssets/Model/Common_AB/blender_cube.obj
+- Assets/GameProject/RuntimeAssets/Model/Common_AB/pipeline_s.obj
+- Assets/GameProject/RuntimeAssets/Model/Common_AB/pipeline_straight.obj
+Dependencies:
+- F:/WorkPlace/361N/Client/TargetProject/Build/AssetBundles/WebGL/material_ab_28de452be7520509d20923f369ae5b7a.b

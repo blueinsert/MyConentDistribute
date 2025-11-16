@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 650067672
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a14d13096beb10fc54f16aadf163215e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+HashAppended: 1
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Framework/UI/Resources/Sprites/Background.png
+Dependencies: []

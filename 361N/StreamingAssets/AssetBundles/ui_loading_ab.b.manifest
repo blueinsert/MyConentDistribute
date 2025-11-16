@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 2520178914
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9f489ed21e5017ecf873bbc7fa84cb19
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: efbaa887823d4ce817e514f204f4ef44
+HashAppended: 1
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- "Assets/GameProject/RuntimeAssets/UI/Loading_AB/\u7EDF\u8BA1\u6559\u6539loading.jpg"
+- Assets/GameProject/RuntimeAssets/UI/Loading_AB/OVR_Logo.jpg
+- Assets/GameProject/RuntimeAssets/UI/Loading_AB/LoadingImage.jpg
+- "Assets/GameProject/RuntimeAssets/UI/Loading_AB/\u7075\u7EF4\u57C3logo.jpg"
+- Assets/GameProject/RuntimeAssets/UI/Loading_AB/ProjectELoadingUIPrefab.prefab
+- "Assets/GameProject/RuntimeAssets/UI/Loading_AB/APP\u56FE\u6807.jpg"
+Dependencies: []

@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 4123350318
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 86e78b7f73335df050530d7ce2488912
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 33b0eebde324d9fea0124e00675226a6
+HashAppended: 1
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- "Assets/GameProject/RuntimeAssets/Model/BiopsyForceps_AB/\u6D3B\u68C0\u94B3.fbx"
+- Assets/GameProject/RuntimeAssets/Model/BiopsyForceps_AB/MetalRoughness.png
+- Assets/GameProject/RuntimeAssets/Model/BiopsyForceps_AB/Diffuse_Bake.jpg
+- Assets/GameProject/RuntimeAssets/Model/BiopsyForceps_AB/Normal_Bake.jpg
+Dependencies: []

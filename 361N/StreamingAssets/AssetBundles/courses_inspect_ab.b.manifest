@@ -1,0 +1,76 @@
+ManifestFileVersion: 0
+CRC: 3905634122
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0b6851fb0eeb93a5e6e91ae148b59604
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3b295e000cf30e488dfb64f56b9ce552
+HashAppended: 1
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 43f01576de18afc44aa19bc4acadb193, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 96f326f601d0348458ee1c8508b63265, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 44cd224bb09ca2c4dbafa5c2cbaffc87, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a79441f348de89743a2939f4d699eac1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7c09a36ac73d7284b8076399a683f42e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 77eae18c8be4dfb439b6d6c19dcbfb2c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 328
+  Script: {instanceID: 0}
+- Class: 329
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.TemporalAA/Settings
+Assets:
+- Assets/GameProject/RuntimeAssets/Courses/Inspect_AB/Level/InspectLevel2Prefab.prefab
+- Assets/GameProject/RuntimeAssets/Courses/Inspect_AB/Level/InspectLevel1Prefab.prefab
+- Assets/GameProject/RuntimeAssets/Courses/Inspect_AB/Level/Xinshengwu2Prefab.prefab
+- Assets/GameProject/RuntimeAssets/Courses/Inspect_AB/VeryLongPipelinePrefab.prefab
+- Assets/GameProject/RuntimeAssets/Courses/Inspect_AB/Level/Xinshengwu3Prefab.prefab
+- Assets/GameProject/RuntimeAssets/Courses/Inspect_AB/SceneInspectPrefab.prefab
+- Assets/GameProject/RuntimeAssets/Courses/Inspect_AB/Level/Xinshengwu1Prefab.prefab
+Dependencies:
+- F:/WorkPlace/361N/Client/TargetProject/Build/AssetBundles/WebGL/material_ab_28de452be7520509d20923f369ae5b7a.b
+- F:/WorkPlace/361N/Client/TargetProject/Build/AssetBundles/WebGL/model_common_ab_74023827b77874c118060386db95a62e.b
+- F:/WorkPlace/361N/Client/TargetProject/Build/AssetBundles/WebGL/model_inspect_ab_f70ee4fda93c50e798152488ef7a65f5.b
+- F:/WorkPlace/361N/Client/TargetProject/Build/AssetBundles/WebGL/physicmaterial_ab_56d9063550abbcbd351adf698439870d.b
+- F:/WorkPlace/361N/Client/TargetProject/Build/AssetBundles/WebGL/video_blackhole_ab_f608f7efaa8c27174aad8c8067566c13.b

@@ -1,0 +1,136 @@
+ManifestFileVersion: 0
+CRC: 3029426496
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: shader_ab_b118cab8f49d7c292f6fb2d22a40419c.b
+      Dependencies:
+        Dependency_0: model_inspect_ab_f70ee4fda93c50e798152488ef7a65f5.b
+        Dependency_1: model_largeintestine_ab_b9b411a6d01cf0aa1f9fdc57cca48afc.b
+        Dependency_2: model_stomach_lesionmap_ab_5bfeb7012f938b3caa609280318dc1e2.b
+        Dependency_3: model_biopsyforceps_ab_86e78b7f73335df050530d7ce2488912.b
+        Dependency_4: model_largeintestine_lesionmap_ab_57bd974e7a6402df0343a0f6420df2f3.b
+        Dependency_5: model_stomach_ab_959ddaa7e4ae535202dff0259d2e097c.b
+    Info_1:
+      Name: material_ab_28de452be7520509d20923f369ae5b7a.b
+      Dependencies:
+        Dependency_0: shader_ab_b118cab8f49d7c292f6fb2d22a40419c.b
+        Dependency_1: model_inspect_ab_f70ee4fda93c50e798152488ef7a65f5.b
+        Dependency_2: model_largeintestine_ab_b9b411a6d01cf0aa1f9fdc57cca48afc.b
+        Dependency_3: model_stomach_lesionmap_ab_5bfeb7012f938b3caa609280318dc1e2.b
+        Dependency_4: model_largeintestine_lesionmap_ab_57bd974e7a6402df0343a0f6420df2f3.b
+        Dependency_5: video_blackhole_ab_f608f7efaa8c27174aad8c8067566c13.b
+        Dependency_6: model_stomach_ab_959ddaa7e4ae535202dff0259d2e097c.b
+    Info_2:
+      Name: textures_ab_53bf96bf56fe84e24c830418578347a7.b
+      Dependencies: {}
+    Info_3:
+      Name: configdata_ab_8ead21a851a6907db32beda1a951418c.b
+      Dependencies: {}
+    Info_4:
+      Name: model_basketball_ab_0d3c196d15536915bd9443f987c12f5c.b
+      Dependencies: {}
+    Info_5:
+      Name: courses_common_ab_2be2976954f997aed78315c58ff98d5b.b
+      Dependencies:
+        Dependency_0: shader_ab_b118cab8f49d7c292f6fb2d22a40419c.b
+        Dependency_1: material_ab_28de452be7520509d20923f369ae5b7a.b
+        Dependency_2: model_basketball_ab_0d3c196d15536915bd9443f987c12f5c.b
+        Dependency_3: model_endoscope_ab_88410dfdf3abcb78c8607631447702dd.b
+        Dependency_4: model_biopsyforceps_ab_86e78b7f73335df050530d7ce2488912.b
+        Dependency_5: video_blackhole_ab_f608f7efaa8c27174aad8c8067566c13.b
+        Dependency_6: model_common_ab_74023827b77874c118060386db95a62e.b
+        Dependency_7: physicmaterial_ab_56d9063550abbcbd351adf698439870d.b
+    Info_6:
+      Name: model_inspect_ab_f70ee4fda93c50e798152488ef7a65f5.b
+      Dependencies: {}
+    Info_7:
+      Name: ui_course_common_ab_a6911f4e4b59d77508209d8ab932834c.b
+      Dependencies:
+        Dependency_0: ui_sprites_ab_06386b642f8450d8958d246a7c892205.b
+        Dependency_1: font_ab_c919d8aae90973922ba0a66bf7dba742.b
+    Info_8:
+      Name: courses_inject_ab_45959a8bcc0d7ffd3d092715f4b83115.b
+      Dependencies:
+        Dependency_0: shader_ab_b118cab8f49d7c292f6fb2d22a40419c.b
+    Info_9:
+      Name: ui_sprites_ab_06386b642f8450d8958d246a7c892205.b
+      Dependencies: {}
+    Info_10:
+      Name: font_ab_c919d8aae90973922ba0a66bf7dba742.b
+      Dependencies: {}
+    Info_11:
+      Name: sound_bgm_ab_6bf65e79ffc8c89cd59804bc06d57df9.b
+      Dependencies: {}
+    Info_12:
+      Name: model_endoscope_ab_88410dfdf3abcb78c8607631447702dd.b
+      Dependencies: {}
+    Info_13:
+      Name: courses_cutting_ab_6e693a9d6173320b26ac2fde03121083.b
+      Dependencies:
+        Dependency_0: material_ab_28de452be7520509d20923f369ae5b7a.b
+    Info_14:
+      Name: ui_loading_ab_9f489ed21e5017ecf873bbc7fa84cb19.b
+      Dependencies: {}
+    Info_15:
+      Name: model_largeintestine_ab_b9b411a6d01cf0aa1f9fdc57cca48afc.b
+      Dependencies: {}
+    Info_16:
+      Name: model_stomach_lesionmap_ab_5bfeb7012f938b3caa609280318dc1e2.b
+      Dependencies: {}
+    Info_17:
+      Name: courses_inspect_ab_0b6851fb0eeb93a5e6e91ae148b59604.b
+      Dependencies:
+        Dependency_0: material_ab_28de452be7520509d20923f369ae5b7a.b
+        Dependency_1: model_inspect_ab_f70ee4fda93c50e798152488ef7a65f5.b
+        Dependency_2: video_blackhole_ab_f608f7efaa8c27174aad8c8067566c13.b
+        Dependency_3: model_common_ab_74023827b77874c118060386db95a62e.b
+        Dependency_4: physicmaterial_ab_56d9063550abbcbd351adf698439870d.b
+    Info_18:
+      Name: model_biopsyforceps_ab_86e78b7f73335df050530d7ce2488912.b
+      Dependencies: {}
+    Info_19:
+      Name: model_largeintestine_lesionmap_ab_57bd974e7a6402df0343a0f6420df2f3.b
+      Dependencies: {}
+    Info_20:
+      Name: video_blackhole_ab_f608f7efaa8c27174aad8c8067566c13.b
+      Dependencies: {}
+    Info_21:
+      Name: bundledata_ab_bcf503ee1b6a680dd133aa1b0ae70066.b
+      Dependencies: {}
+    Info_22:
+      Name: model_common_ab_74023827b77874c118060386db95a62e.b
+      Dependencies:
+        Dependency_0: material_ab_28de452be7520509d20923f369ae5b7a.b
+    Info_23:
+      Name: model_stomach_ab_959ddaa7e4ae535202dff0259d2e097c.b
+      Dependencies: {}
+    Info_24:
+      Name: courses_inserting_ab_7576559b245cb5118abefde361ebad54.b
+      Dependencies:
+        Dependency_0: material_ab_28de452be7520509d20923f369ae5b7a.b
+        Dependency_1: model_largeintestine_ab_b9b411a6d01cf0aa1f9fdc57cca48afc.b
+        Dependency_2: model_largeintestine_lesionmap_ab_57bd974e7a6402df0343a0f6420df2f3.b
+        Dependency_3: model_common_ab_74023827b77874c118060386db95a62e.b
+        Dependency_4: model_stomach_ab_959ddaa7e4ae535202dff0259d2e097c.b
+        Dependency_5: physicmaterial_ab_56d9063550abbcbd351adf698439870d.b
+    Info_25:
+      Name: ui_common_ab_3f4574e368aed39587a2ec0f0a5766cd.b
+      Dependencies:
+        Dependency_0: ui_sprites_ab_06386b642f8450d8958d246a7c892205.b
+        Dependency_1: font_ab_c919d8aae90973922ba0a66bf7dba742.b
+    Info_26:
+      Name: courses_biopsy_ab_60b67163b53787ee05af0681b8332fc3.b
+      Dependencies:
+        Dependency_0: model_basketball_ab_0d3c196d15536915bd9443f987c12f5c.b
+    Info_27:
+      Name: ui_clean&minimalist_ab_a14d13096beb10fc54f16aadf163215e.b
+      Dependencies: {}
+    Info_28:
+      Name: physicmaterial_ab_56d9063550abbcbd351adf698439870d.b
+      Dependencies: {}
+    Info_29:
+      Name: ui_course_insert_ab_41c964b9e664a106150bf25297696b74.b
+      Dependencies:
+        Dependency_0: ui_course_common_ab_a6911f4e4b59d77508209d8ab932834c.b
+        Dependency_1: ui_sprites_ab_06386b642f8450d8958d246a7c892205.b

@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 2717100005
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 60b67163b53787ee05af0681b8332fc3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cbc3810cef96f911d4fde74c2ad47a75
+HashAppended: 1
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 96f326f601d0348458ee1c8508b63265, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a79441f348de89743a2939f4d699eac1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cf01b903ef00f4643b0246bda9da0e1a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 77eae18c8be4dfb439b6d6c19dcbfb2c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.TemporalAA/Settings
+Assets:
+- Assets/GameProject/RuntimeAssets/Courses/Biopsy_AB/Level/BiopsyLevel5.prefab
+- Assets/GameProject/RuntimeAssets/Courses/Biopsy_AB/BasketBallPrefab.prefab
+- Assets/GameProject/RuntimeAssets/Courses/Biopsy_AB/BasketPrefab.prefab
+- Assets/GameProject/RuntimeAssets/Courses/Biopsy_AB/Level/BiopsyLevel3.prefab
+- Assets/GameProject/RuntimeAssets/Courses/Biopsy_AB/Level/BiopsyLevel4.prefab
+- Assets/GameProject/RuntimeAssets/Courses/Biopsy_AB/Level/BiopsyLevel2.prefab
+- Assets/GameProject/RuntimeAssets/Courses/Biopsy_AB/Level/BiopsyLevel6.prefab
+- Assets/GameProject/RuntimeAssets/Courses/Biopsy_AB/Level/BiopsyLevel1.prefab
+Dependencies:
+- F:/WorkPlace/361N/Client/TargetProject/Build/AssetBundles/WebGL/model_basketball_ab_0d3c196d15536915bd9443f987c12f5c.b

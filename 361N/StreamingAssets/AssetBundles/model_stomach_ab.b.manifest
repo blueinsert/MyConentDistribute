@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2757770217
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 959ddaa7e4ae535202dff0259d2e097c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9203a98c4a3dca5f67928e72fff8f95d
+HashAppended: 1
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameProject/RuntimeAssets/Model/Stomach_AB/Textures/StomachBaseColor.png
+- Assets/GameProject/RuntimeAssets/Model/Stomach_AB/Textures/Stomach_region_mask.png
+- Assets/GameProject/RuntimeAssets/Model/Stomach_AB/StomachModelPrefab.prefab
+- "Assets/GameProject/RuntimeAssets/Model/Stomach_AB/\u98DF\u7BA1.obj"
+- Assets/GameProject/RuntimeAssets/Model/Stomach_AB/Stomach.obj
+Dependencies: []

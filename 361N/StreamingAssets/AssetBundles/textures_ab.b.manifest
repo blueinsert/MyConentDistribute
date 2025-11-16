@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 500236360
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 53bf96bf56fe84e24c830418578347a7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+HashAppended: 1
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameProject/RuntimeAssets/Textures_AB/SkyBox/5/Down.png
+- Assets/GameProject/RuntimeAssets/Textures_AB/SkyBox/5/Left.png
+- Assets/GameProject/RuntimeAssets/Textures_AB/SkyBox/5/Front.png
+- Assets/GameProject/RuntimeAssets/Textures_AB/SkyBox/5/5.mat
+- Assets/GameProject/RuntimeAssets/Textures_AB/SkyBox/5/Right.png
+- Assets/GameProject/RuntimeAssets/Textures_AB/SkyBox/5/Back.png
+- Assets/GameProject/RuntimeAssets/Textures_AB/SkyBox/5/Up.png
+Dependencies: []

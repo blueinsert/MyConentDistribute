@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1648657622
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8ead21a851a6907db32beda1a951418c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d582b97f558bdf1a02855c1de820c1d1
+HashAppended: 1
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 85a7a1b05aa986b4296a4bf61ec47102, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameProject/RuntimeAssets/ConfigData_AB/ConfigDataInstrumentsSlot.asset
+- Assets/GameProject/RuntimeAssets/ConfigData_AB/ConfigDataInsertCourse.asset
+- Assets/GameProject/RuntimeAssets/ConfigData_AB/ConfigDataCourse.asset
+- Assets/GameProject/RuntimeAssets/ConfigData_AB/ConfigDataSound.asset
+- Assets/GameProject/RuntimeAssets/ConfigData_AB/ConfigDataInstruments.asset
+- Assets/GameProject/RuntimeAssets/ConfigData_AB/ConfigDataEndoscope.asset
+- Assets/GameProject/RuntimeAssets/ConfigData_AB/ConfigData.asset
+- Assets/GameProject/RuntimeAssets/ConfigData_AB/ConfigDataConst.asset
+- Assets/GameProject/RuntimeAssets/ConfigData_AB/ConfigDataPosition.asset
+- Assets/GameProject/RuntimeAssets/ConfigData_AB/ConfigDataCourseTypeInfo.asset
+- Assets/GameProject/RuntimeAssets/ConfigData_AB/ConfigDataPositionGroup.asset
+Dependencies: []

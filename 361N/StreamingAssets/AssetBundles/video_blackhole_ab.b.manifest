@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4084630294
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f608f7efaa8c27174aad8c8067566c13
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 590d16f2a4a5ea47d155408b79a0dd09
+HashAppended: 1
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 329
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameProject/RuntimeAssets/Video/BlackHole_AB/BlackHole.png
+- Assets/GameProject/RuntimeAssets/Video/BlackHole_AB/BlackHole.mp4
+Dependencies: []

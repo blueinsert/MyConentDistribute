@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 4139486791
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bcf503ee1b6a680dd133aa1b0ae70066
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c3170e852d3f547017fc1395265e4489
+HashAppended: 1
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: f5ff0b2204f92f449b9102f47e67e512, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: bluebean.UGFramework.Asset.BundleData/SingleBundleData
+Assets:
+- Assets/GameProject/RuntimeAssets/BundleData_AB/BundleData.asset
+Dependencies: []

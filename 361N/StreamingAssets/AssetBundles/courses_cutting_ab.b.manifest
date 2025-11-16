@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 1429667734
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6e693a9d6173320b26ac2fde03121083
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3beb8b57902176220fb37c666e5d805b
+HashAppended: 1
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 63cb9536d517de446bfee5db1c9771c6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2c4a9f264c7756646aad1861ad94c079, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 77eae18c8be4dfb439b6d6c19dcbfb2c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameProject/RuntimeAssets/Courses/Cutting_AB/Level/CuttingLevel4.prefab
+- Assets/GameProject/RuntimeAssets/Courses/Cutting_AB/Level/Curve1Data.asset
+- Assets/GameProject/RuntimeAssets/Courses/Cutting_AB/Level/Curve6Data.asset
+- Assets/GameProject/RuntimeAssets/Courses/Cutting_AB/CuttingPathPointBallPrefab.prefab
+- Assets/GameProject/RuntimeAssets/Courses/Cutting_AB/Level/CuttingLevel1.prefab
+- Assets/GameProject/RuntimeAssets/Courses/Cutting_AB/Level/CuttingLevel5.prefab
+- Assets/GameProject/RuntimeAssets/Courses/Cutting_AB/Level/CuttingLevel2.prefab
+- Assets/GameProject/RuntimeAssets/Courses/Cutting_AB/Level/Curve3Data.asset
+- Assets/GameProject/RuntimeAssets/Courses/Cutting_AB/Level/Curve5Data.asset
+- Assets/GameProject/RuntimeAssets/Courses/Cutting_AB/Level/Curve2Data.asset
+- Assets/GameProject/RuntimeAssets/Courses/Cutting_AB/Level/CuttingLevel6.prefab
+- Assets/GameProject/RuntimeAssets/Courses/Cutting_AB/Level/CuttingLevel3.prefab
+- Assets/GameProject/RuntimeAssets/Courses/Cutting_AB/Level/Curve4Data.asset
+Dependencies:
+- F:/WorkPlace/361N/Client/TargetProject/Build/AssetBundles/WebGL/material_ab_28de452be7520509d20923f369ae5b7a.b

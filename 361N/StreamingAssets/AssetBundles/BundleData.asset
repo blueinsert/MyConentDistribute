@@ -1,0 +1,423 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5ff0b2204f92f449b9102f47e67e512, type: 3}
+  m_Name: BundleData
+  m_EditorClassIdentifier: 
+  m_bundleList:
+  - m_bundleName: configdata_ab.b
+    m_bundleHash: 8ead21a851a6907db32beda1a951418c
+    m_bundleCRC: 1648657622
+    m_realBundleName: configdata_ab_8ead21a851a6907db32beda1a951418c.b
+    m_size: 0
+    m_assetList:
+    - Assets/GameProject/RuntimeAssets/ConfigData_AB/ConfigData.asset
+    - Assets/GameProject/RuntimeAssets/ConfigData_AB/ConfigDataConst.asset
+    - Assets/GameProject/RuntimeAssets/ConfigData_AB/ConfigDataCourse.asset
+    - Assets/GameProject/RuntimeAssets/ConfigData_AB/ConfigDataCourseTypeInfo.asset
+    - Assets/GameProject/RuntimeAssets/ConfigData_AB/ConfigDataEndoscope.asset
+    - Assets/GameProject/RuntimeAssets/ConfigData_AB/ConfigDataInsertCourse.asset
+    - Assets/GameProject/RuntimeAssets/ConfigData_AB/ConfigDataInstruments.asset
+    - Assets/GameProject/RuntimeAssets/ConfigData_AB/ConfigDataInstrumentsSlot.asset
+    - Assets/GameProject/RuntimeAssets/ConfigData_AB/ConfigDataPosition.asset
+    - Assets/GameProject/RuntimeAssets/ConfigData_AB/ConfigDataPositionGroup.asset
+    - Assets/GameProject/RuntimeAssets/ConfigData_AB/ConfigDataSound.asset
+  - m_bundleName: courses_biopsy_ab.b
+    m_bundleHash: 60b67163b53787ee05af0681b8332fc3
+    m_bundleCRC: 2717100005
+    m_realBundleName: courses_biopsy_ab_60b67163b53787ee05af0681b8332fc3.b
+    m_size: 0
+    m_assetList:
+    - Assets/GameProject/RuntimeAssets/Courses/Biopsy_AB/BasketBallPrefab.prefab
+    - Assets/GameProject/RuntimeAssets/Courses/Biopsy_AB/BasketPrefab.prefab
+    - Assets/GameProject/RuntimeAssets/Courses/Biopsy_AB/Level/BiopsyLevel1.prefab
+    - Assets/GameProject/RuntimeAssets/Courses/Biopsy_AB/Level/BiopsyLevel2.prefab
+    - Assets/GameProject/RuntimeAssets/Courses/Biopsy_AB/Level/BiopsyLevel3.prefab
+    - Assets/GameProject/RuntimeAssets/Courses/Biopsy_AB/Level/BiopsyLevel4.prefab
+    - Assets/GameProject/RuntimeAssets/Courses/Biopsy_AB/Level/BiopsyLevel5.prefab
+    - Assets/GameProject/RuntimeAssets/Courses/Biopsy_AB/Level/BiopsyLevel6.prefab
+  - m_bundleName: courses_common_ab.b
+    m_bundleHash: 2be2976954f997aed78315c58ff98d5b
+    m_bundleCRC: 1817478794
+    m_realBundleName: courses_common_ab_2be2976954f997aed78315c58ff98d5b.b
+    m_size: 0
+    m_assetList:
+    - Assets/GameProject/RuntimeAssets/Courses/Common_AB/Endoscope/cross section.asset
+    - Assets/GameProject/RuntimeAssets/Courses/Common_AB/Endoscope/EndoscopeGraphicPrefab.prefab
+    - Assets/GameProject/RuntimeAssets/Courses/Common_AB/Endoscope/EndoscopeParamsAsset.asset
+    - Assets/GameProject/RuntimeAssets/Courses/Common_AB/Endoscope/EndoscopePrefab.prefab
+    - Assets/GameProject/RuntimeAssets/Courses/Common_AB/Endoscope/EndoscopePrefab2.prefab
+    - Assets/GameProject/RuntimeAssets/Courses/Common_AB/Instruments/BiopsyForcepsAnimator.controller
+    - Assets/GameProject/RuntimeAssets/Courses/Common_AB/Instruments/BiopsyForcepsPrefab.prefab
+    - Assets/GameProject/RuntimeAssets/Courses/Common_AB/Instruments/BiopsyForcepsTimeline_Close.playable
+    - Assets/GameProject/RuntimeAssets/Courses/Common_AB/Instruments/BiopsyForcepsTimeline_Open.playable
+    - Assets/GameProject/RuntimeAssets/Courses/Common_AB/Instruments/ColliderCheckerPrefab.prefab
+    - Assets/GameProject/RuntimeAssets/Courses/Common_AB/Instruments/ElectrosurgicalKnifePrefab.prefab
+    - Assets/GameProject/RuntimeAssets/Courses/Common_AB/Instruments/EndoscopeLightPrefab.prefab
+    - Assets/GameProject/RuntimeAssets/Courses/Common_AB/Instruments/InjectionNeedlePrefab.prefab
+    - Assets/GameProject/RuntimeAssets/Courses/Common_AB/Scene/CourseSceneRoot.prefab
+    - Assets/GameProject/RuntimeAssets/Courses/Common_AB/Scene/GameEndGatePrefab.prefab
+    - Assets/GameProject/RuntimeAssets/Courses/Common_AB/Scene/Global Volume Profile.asset
+    - Assets/GameProject/RuntimeAssets/Courses/Common_AB/Scene/PipelineCPrefab.prefab
+    - Assets/GameProject/RuntimeAssets/Courses/Common_AB/Scene/PipelineSPrefab.prefab
+    - Assets/GameProject/RuntimeAssets/Courses/Common_AB/Scene/PipelineStraightPrefab.prefab
+    - Assets/GameProject/RuntimeAssets/Courses/Common_AB/Scene/PipelineYPrefab.prefab
+    - Assets/GameProject/RuntimeAssets/Courses/Common_AB/Scene/SceneCameraOutput.renderTexture
+    - Assets/GameProject/RuntimeAssets/Courses/Common_AB/Scene/SceneCPrefab.prefab
+    - Assets/GameProject/RuntimeAssets/Courses/Common_AB/Scene/SceneSPrefab.prefab
+    - Assets/GameProject/RuntimeAssets/Courses/Common_AB/Scene/SceneStraightPrefab.prefab
+  - m_bundleName: courses_cutting_ab.b
+    m_bundleHash: 6e693a9d6173320b26ac2fde03121083
+    m_bundleCRC: 1429667734
+    m_realBundleName: courses_cutting_ab_6e693a9d6173320b26ac2fde03121083.b
+    m_size: 0
+    m_assetList:
+    - Assets/GameProject/RuntimeAssets/Courses/Cutting_AB/CuttingPathPointBallPrefab.prefab
+    - Assets/GameProject/RuntimeAssets/Courses/Cutting_AB/Level/Curve1Data.asset
+    - Assets/GameProject/RuntimeAssets/Courses/Cutting_AB/Level/Curve2Data.asset
+    - Assets/GameProject/RuntimeAssets/Courses/Cutting_AB/Level/Curve3Data.asset
+    - Assets/GameProject/RuntimeAssets/Courses/Cutting_AB/Level/Curve4Data.asset
+    - Assets/GameProject/RuntimeAssets/Courses/Cutting_AB/Level/Curve5Data.asset
+    - Assets/GameProject/RuntimeAssets/Courses/Cutting_AB/Level/Curve6Data.asset
+    - Assets/GameProject/RuntimeAssets/Courses/Cutting_AB/Level/CuttingLevel1.prefab
+    - Assets/GameProject/RuntimeAssets/Courses/Cutting_AB/Level/CuttingLevel2.prefab
+    - Assets/GameProject/RuntimeAssets/Courses/Cutting_AB/Level/CuttingLevel3.prefab
+    - Assets/GameProject/RuntimeAssets/Courses/Cutting_AB/Level/CuttingLevel4.prefab
+    - Assets/GameProject/RuntimeAssets/Courses/Cutting_AB/Level/CuttingLevel5.prefab
+    - Assets/GameProject/RuntimeAssets/Courses/Cutting_AB/Level/CuttingLevel6.prefab
+  - m_bundleName: courses_inject_ab.b
+    m_bundleHash: 45959a8bcc0d7ffd3d092715f4b83115
+    m_bundleCRC: 3368224733
+    m_realBundleName: courses_inject_ab_45959a8bcc0d7ffd3d092715f4b83115.b
+    m_size: 0
+    m_assetList:
+    - Assets/GameProject/RuntimeAssets/Courses/Inject_AB/ConvexHullBubblePrefab.prefab
+    - Assets/GameProject/RuntimeAssets/Courses/Inject_AB/Level/InjectCourseLevel1_Stright.prefab
+    - Assets/GameProject/RuntimeAssets/Courses/Inject_AB/Level/InjectCourseLevel2_C.prefab
+    - Assets/GameProject/RuntimeAssets/Courses/Inject_AB/Level/InjectCourseLevel3_S.prefab
+    - Assets/GameProject/RuntimeAssets/Courses/Inject_AB/Level/InjectCourseLevel4_Stright_R.prefab
+    - Assets/GameProject/RuntimeAssets/Courses/Inject_AB/Level/InjectCourseLevel5_C_R.prefab
+    - Assets/GameProject/RuntimeAssets/Courses/Inject_AB/Level/InjectCourseLevel6_S_R.prefab
+  - m_bundleName: courses_inserting_ab.b
+    m_bundleHash: 7576559b245cb5118abefde361ebad54
+    m_bundleCRC: 1467911827
+    m_realBundleName: courses_inserting_ab_7576559b245cb5118abefde361ebad54.b
+    m_size: 0
+    m_assetList:
+    - Assets/GameProject/RuntimeAssets/Courses/Inserting_AB/LargeIntestinePrefab.prefab
+    - Assets/GameProject/RuntimeAssets/Courses/Inserting_AB/LargeIntestinePrefab_LesionMap.prefab
+    - Assets/GameProject/RuntimeAssets/Courses/Inserting_AB/SceneLargeIntestinePrefab.prefab
+    - Assets/GameProject/RuntimeAssets/Courses/Inserting_AB/SceneLargeIntestinePrefab_LesionMap.prefab
+    - Assets/GameProject/RuntimeAssets/Courses/Inserting_AB/SceneStomachPrefab.prefab
+    - Assets/GameProject/RuntimeAssets/Courses/Inserting_AB/SceneStomachPrefab_LesionMap.prefab
+    - Assets/GameProject/RuntimeAssets/Courses/Inserting_AB/StomachPrefab.prefab
+    - Assets/GameProject/RuntimeAssets/Courses/Inserting_AB/StomachPrefab_LesionMap.prefab
+    - Assets/GameProject/RuntimeAssets/Courses/Inserting_AB/ThirdCameraOutput.renderTexture
+  - m_bundleName: courses_inspect_ab.b
+    m_bundleHash: 0b6851fb0eeb93a5e6e91ae148b59604
+    m_bundleCRC: 3905634122
+    m_realBundleName: courses_inspect_ab_0b6851fb0eeb93a5e6e91ae148b59604.b
+    m_size: 0
+    m_assetList:
+    - Assets/GameProject/RuntimeAssets/Courses/Inspect_AB/Level/InspectLevel1Prefab.prefab
+    - Assets/GameProject/RuntimeAssets/Courses/Inspect_AB/Level/InspectLevel2Prefab.prefab
+    - Assets/GameProject/RuntimeAssets/Courses/Inspect_AB/Level/Xinshengwu1Prefab.prefab
+    - Assets/GameProject/RuntimeAssets/Courses/Inspect_AB/Level/Xinshengwu2Prefab.prefab
+    - Assets/GameProject/RuntimeAssets/Courses/Inspect_AB/Level/Xinshengwu3Prefab.prefab
+    - Assets/GameProject/RuntimeAssets/Courses/Inspect_AB/SceneInspectPrefab.prefab
+    - Assets/GameProject/RuntimeAssets/Courses/Inspect_AB/VeryLongPipelinePrefab.prefab
+  - m_bundleName: font_ab.b
+    m_bundleHash: c919d8aae90973922ba0a66bf7dba742
+    m_bundleCRC: 3907342658
+    m_realBundleName: font_ab_c919d8aae90973922ba0a66bf7dba742.b
+    m_size: 0
+    m_assetList:
+    - Assets/GameProject/RuntimeAssets/Font_AB/LUIFont.ttf
+    - Assets/GameProject/RuntimeAssets/Font_AB/UI_Font.ttf
+  - m_bundleName: material_ab.b
+    m_bundleHash: 28de452be7520509d20923f369ae5b7a
+    m_bundleCRC: 3688295221
+    m_realBundleName: material_ab_28de452be7520509d20923f369ae5b7a.b
+    m_size: 0
+    m_assetList:
+    - Assets/GameProject/RuntimeAssets/Material_AB/BlackHole.mat
+    - Assets/GameProject/RuntimeAssets/Material_AB/BubbleMaterial.mat
+    - Assets/GameProject/RuntimeAssets/Material_AB/DefaultMaterial.mat
+    - Assets/GameProject/RuntimeAssets/Material_AB/EndGateMaterial.mat
+    - Assets/GameProject/RuntimeAssets/Material_AB/EndoscopeMaterial.mat
+    - Assets/GameProject/RuntimeAssets/Material_AB/FourDirMaterial.mat
+    - Assets/GameProject/RuntimeAssets/Material_AB/InjectNeedleMaterial.mat
+    - Assets/GameProject/RuntimeAssets/Material_AB/LargeIntestineMaterial.mat
+    - Assets/GameProject/RuntimeAssets/Material_AB/LargeIntestineMaterial_LesionMap.mat
+    - Assets/GameProject/RuntimeAssets/Material_AB/PathPointMaterial.mat
+    - Assets/GameProject/RuntimeAssets/Material_AB/PipelineMaterial.mat
+    - Assets/GameProject/RuntimeAssets/Material_AB/PlaneMaterial.mat
+    - Assets/GameProject/RuntimeAssets/Material_AB/Red.mat
+    - Assets/GameProject/RuntimeAssets/Material_AB/RopeMaterial.mat
+    - Assets/GameProject/RuntimeAssets/Material_AB/SkyBox.mat
+    - Assets/GameProject/RuntimeAssets/Material_AB/StomachMaterial.mat
+    - Assets/GameProject/RuntimeAssets/Material_AB/StomachMaterial_LesionMap.mat
+    - Assets/GameProject/RuntimeAssets/Material_AB/StrightPipelineMaterial.mat
+    - Assets/GameProject/RuntimeAssets/Material_AB/Swirl.mat
+    - Assets/GameProject/RuntimeAssets/Material_AB/VerylongPipelineMaterial.mat
+    - Assets/GameProject/RuntimeAssets/Material_AB/VideoMaterial.mat
+    - Assets/GameProject/RuntimeAssets/Material_AB/Xinshengwu1Material.mat
+    - Assets/GameProject/RuntimeAssets/Material_AB/Xinshengwu2Material.mat
+    - Assets/GameProject/RuntimeAssets/Material_AB/Xinshengwu3Material.mat
+  - m_bundleName: model_basketball_ab.b
+    m_bundleHash: 0d3c196d15536915bd9443f987c12f5c
+    m_bundleCRC: 3086873051
+    m_realBundleName: model_basketball_ab_0d3c196d15536915bd9443f987c12f5c.b
+    m_size: 0
+    m_assetList:
+    - Assets/GameProject/RuntimeAssets/Model/BasketBall_AB/Ball/BasketBall.shadergraph
+    - Assets/GameProject/RuntimeAssets/Model/BasketBall_AB/Ball/BasketBallPrefab.prefab
+    - Assets/GameProject/RuntimeAssets/Model/BasketBall_AB/Ball/Diffuse_Bake.jpg
+    - Assets/GameProject/RuntimeAssets/Model/BasketBall_AB/Ball/MetalRoughness.png
+    - Assets/GameProject/RuntimeAssets/Model/BasketBall_AB/Ball/Normal_Bake.jpg
+    - "Assets/GameProject/RuntimeAssets/Model/BasketBall_AB/Ball/\u7BEE\u7403.fbx"
+    - Assets/GameProject/RuntimeAssets/Model/BasketBall_AB/Basket/Basket.shadergraph
+    - Assets/GameProject/RuntimeAssets/Model/BasketBall_AB/Basket/BasketPrefab.prefab
+    - Assets/GameProject/RuntimeAssets/Model/BasketBall_AB/Basket/Diffuse_Bake.jpg
+    - Assets/GameProject/RuntimeAssets/Model/BasketBall_AB/Basket/MetalRoughness.png
+    - Assets/GameProject/RuntimeAssets/Model/BasketBall_AB/Basket/Normal_Bake.jpg
+    - "Assets/GameProject/RuntimeAssets/Model/BasketBall_AB/Basket/\u84DD\u7F51.fbx"
+  - m_bundleName: model_biopsyforceps_ab.b
+    m_bundleHash: 86e78b7f73335df050530d7ce2488912
+    m_bundleCRC: 4123350318
+    m_realBundleName: model_biopsyforceps_ab_86e78b7f73335df050530d7ce2488912.b
+    m_size: 0
+    m_assetList:
+    - Assets/GameProject/RuntimeAssets/Model/BiopsyForceps_AB/Diffuse_Bake.jpg
+    - Assets/GameProject/RuntimeAssets/Model/BiopsyForceps_AB/MetalRoughness.png
+    - Assets/GameProject/RuntimeAssets/Model/BiopsyForceps_AB/Normal_Bake.jpg
+    - "Assets/GameProject/RuntimeAssets/Model/BiopsyForceps_AB/\u6D3B\u68C0\u94B3.fbx"
+  - m_bundleName: model_common_ab.b
+    m_bundleHash: 74023827b77874c118060386db95a62e
+    m_bundleCRC: 4000211407
+    m_realBundleName: model_common_ab_74023827b77874c118060386db95a62e.b
+    m_size: 0
+    m_assetList:
+    - Assets/GameProject/RuntimeAssets/Model/Common_AB/blender_cube.obj
+    - Assets/GameProject/RuntimeAssets/Model/Common_AB/bunny.obj
+    - Assets/GameProject/RuntimeAssets/Model/Common_AB/pipeline_c.obj
+    - Assets/GameProject/RuntimeAssets/Model/Common_AB/pipeline_s.obj
+    - Assets/GameProject/RuntimeAssets/Model/Common_AB/pipeline_straight.obj
+    - Assets/GameProject/RuntimeAssets/Model/Common_AB/pipeline_y.obj
+  - m_bundleName: model_endoscope_ab.b
+    m_bundleHash: 88410dfdf3abcb78c8607631447702dd
+    m_bundleCRC: 2431115273
+    m_realBundleName: model_endoscope_ab_88410dfdf3abcb78c8607631447702dd.b
+    m_size: 0
+    m_assetList:
+    - Assets/GameProject/RuntimeAssets/Model/Endoscope_AB/Endoscope.mtl
+    - Assets/GameProject/RuntimeAssets/Model/Endoscope_AB/Endoscope.obj
+  - m_bundleName: model_inspect_ab.b
+    m_bundleHash: f70ee4fda93c50e798152488ef7a65f5
+    m_bundleCRC: 923515813
+    m_realBundleName: model_inspect_ab_f70ee4fda93c50e798152488ef7a65f5.b
+    m_size: 0
+    m_assetList:
+    - Assets/GameProject/RuntimeAssets/Model/Inspect_AB/baseColor.png
+    - Assets/GameProject/RuntimeAssets/Model/Inspect_AB/pipeline_verylong.obj
+    - Assets/GameProject/RuntimeAssets/Model/Inspect_AB/style2-basecolor.png
+    - Assets/GameProject/RuntimeAssets/Model/Inspect_AB/xinshegnwu1/aStone.obj
+    - Assets/GameProject/RuntimeAssets/Model/Inspect_AB/xinshegnwu1/xinshengwu1.obj
+    - Assets/GameProject/RuntimeAssets/Model/Inspect_AB/xinshegnwu1/xinshengwu1_baseColor.png
+    - Assets/GameProject/RuntimeAssets/Model/Inspect_AB/xinshengwu2/xinshengwu2.obj
+    - Assets/GameProject/RuntimeAssets/Model/Inspect_AB/xinshengwu2/xinshengwu2_baseColor.png
+    - Assets/GameProject/RuntimeAssets/Model/Inspect_AB/xinshengwu3/xinshengwu3.obj
+    - Assets/GameProject/RuntimeAssets/Model/Inspect_AB/xinshengwu3/xinshengwu3_baseColor.png
+  - m_bundleName: model_largeintestine_ab.b
+    m_bundleHash: b9b411a6d01cf0aa1f9fdc57cca48afc
+    m_bundleCRC: 237795944
+    m_realBundleName: model_largeintestine_ab_b9b411a6d01cf0aa1f9fdc57cca48afc.b
+    m_size: 0
+    m_assetList:
+    - Assets/GameProject/RuntimeAssets/Model/LargeIntestine_AB/LargeIntestineBaseColor.png
+    - "Assets/GameProject/RuntimeAssets/Model/LargeIntestine_AB/\u5927\u80A0.mtl"
+    - "Assets/GameProject/RuntimeAssets/Model/LargeIntestine_AB/\u5927\u80A0.obj"
+  - m_bundleName: model_largeintestine_lesionmap_ab.b
+    m_bundleHash: 57bd974e7a6402df0343a0f6420df2f3
+    m_bundleCRC: 759685360
+    m_realBundleName: model_largeintestine_lesionmap_ab_57bd974e7a6402df0343a0f6420df2f3.b
+    m_size: 0
+    m_assetList:
+    - Assets/GameProject/RuntimeAssets/Model/LargeIntestine_LesionMap_AB/LargeIntestineBaseColor_LesionMap.png
+    - "Assets/GameProject/RuntimeAssets/Model/LargeIntestine_LesionMap_AB/\u5927\u80A0.obj"
+  - m_bundleName: model_stomach_ab.b
+    m_bundleHash: 959ddaa7e4ae535202dff0259d2e097c
+    m_bundleCRC: 2757770217
+    m_realBundleName: model_stomach_ab_959ddaa7e4ae535202dff0259d2e097c.b
+    m_size: 0
+    m_assetList:
+    - Assets/GameProject/RuntimeAssets/Model/Stomach_AB/Stomach.obj
+    - Assets/GameProject/RuntimeAssets/Model/Stomach_AB/StomachModelPrefab.prefab
+    - Assets/GameProject/RuntimeAssets/Model/Stomach_AB/Textures/Stomach_region_mask.png
+    - Assets/GameProject/RuntimeAssets/Model/Stomach_AB/Textures/StomachBaseColor.png
+    - "Assets/GameProject/RuntimeAssets/Model/Stomach_AB/\u98DF\u7BA1.obj"
+  - m_bundleName: model_stomach_lesionmap_ab.b
+    m_bundleHash: 5bfeb7012f938b3caa609280318dc1e2
+    m_bundleCRC: 1862601768
+    m_realBundleName: model_stomach_lesionmap_ab_5bfeb7012f938b3caa609280318dc1e2.b
+    m_size: 0
+    m_assetList:
+    - Assets/GameProject/RuntimeAssets/Model/Stomach_LesionMap_AB/Textures/Stomach_region_mask.png
+    - Assets/GameProject/RuntimeAssets/Model/Stomach_LesionMap_AB/Textures/StomachBaseColor_LesionMap.png
+  - m_bundleName: physicmaterial_ab.b
+    m_bundleHash: 56d9063550abbcbd351adf698439870d
+    m_bundleCRC: 2413475188
+    m_realBundleName: physicmaterial_ab_56d9063550abbcbd351adf698439870d.b
+    m_size: 0
+    m_assetList:
+    - Assets/GameProject/RuntimeAssets/PhysicMaterial_AB/DefaultPhysicMaterial.physicMaterial
+  - m_bundleName: shader_ab.b
+    m_bundleHash: b118cab8f49d7c292f6fb2d22a40419c
+    m_bundleCRC: 3052654761
+    m_realBundleName: shader_ab_b118cab8f49d7c292f6fb2d22a40419c.b
+    m_size: 0
+    m_assetList:
+    - Assets/GameProject/RuntimeAssets/Shader_AB/BiopsyForcepsShaderGraph.shadergraph
+    - Assets/GameProject/RuntimeAssets/Shader_AB/BlackHole.shader
+    - Assets/GameProject/RuntimeAssets/Shader_AB/BubbleShader.mat
+    - Assets/GameProject/RuntimeAssets/Shader_AB/BubbleShader.shader
+    - Assets/GameProject/RuntimeAssets/Shader_AB/BubbleShader2.shader
+    - Assets/GameProject/RuntimeAssets/Shader_AB/dianguang.shadergraph
+    - Assets/GameProject/RuntimeAssets/Shader_AB/EndoscopeShaderGraph.shadergraph
+    - Assets/GameProject/RuntimeAssets/Shader_AB/InjectNeedleShader.shadergraph
+    - Assets/GameProject/RuntimeAssets/Shader_AB/LargeIntestineShaderGraph.shadergraph
+    - Assets/GameProject/RuntimeAssets/Shader_AB/LargeIntestineShaderGraph_LesionMap.shadergraph
+    - Assets/GameProject/RuntimeAssets/Shader_AB/PathPointShader.shadergraph
+    - Assets/GameProject/RuntimeAssets/Shader_AB/StomachMaterial.shader
+    - Assets/GameProject/RuntimeAssets/Shader_AB/StomachShaderGraph.shadergraph
+    - Assets/GameProject/RuntimeAssets/Shader_AB/StomachShaderGraph_LesionMap.shadergraph
+    - Assets/GameProject/RuntimeAssets/Shader_AB/StrightPipelineShaderGraph.shadergraph
+    - Assets/GameProject/RuntimeAssets/Shader_AB/Swirl.shader
+    - Assets/GameProject/RuntimeAssets/Shader_AB/UI/UI_AA.shader
+    - Assets/GameProject/RuntimeAssets/Shader_AB/UI/UIAdditive.shader
+    - Assets/GameProject/RuntimeAssets/Shader_AB/UI/UIAdditive_AA.shader
+    - Assets/GameProject/RuntimeAssets/Shader_AB/UI/UIAlphaOnly.shader
+    - Assets/GameProject/RuntimeAssets/Shader_AB/UI/UIBackground.shader
+    - Assets/GameProject/RuntimeAssets/Shader_AB/UI/UIGray.shader
+    - Assets/GameProject/RuntimeAssets/Shader_AB/UI/UIGray_AA.shader
+    - Assets/GameProject/RuntimeAssets/Shader_AB/UI/UIScreenEffect.shader
+    - Assets/GameProject/RuntimeAssets/Shader_AB/UI/UISpine.shader
+    - Assets/GameProject/RuntimeAssets/Shader_AB/UI/UISpine_SepAlpha.shader
+    - Assets/GameProject/RuntimeAssets/Shader_AB/UI/UISpine2.shader
+    - Assets/GameProject/RuntimeAssets/Shader_AB/UI/UISpine2_AA.shader
+    - Assets/GameProject/RuntimeAssets/Shader_AB/UI/UISpine2_SepAlpha.shader
+    - Assets/GameProject/RuntimeAssets/Shader_AB/VeryLongPipelineShaderGraph.shadergraph
+    - Assets/GameProject/RuntimeAssets/Shader_AB/VideoShaderGraph.shadergraph
+    - Assets/GameProject/RuntimeAssets/Shader_AB/XinshengwuStype1ShaderGraph.shadergraph
+    - Assets/GameProject/RuntimeAssets/Shader_AB/XinshengwuStype2ShaderGraph.shadergraph
+  - m_bundleName: sound_bgm_ab.b
+    m_bundleHash: 6bf65e79ffc8c89cd59804bc06d57df9
+    m_bundleCRC: 3287295064
+    m_realBundleName: sound_bgm_ab_6bf65e79ffc8c89cd59804bc06d57df9.b
+    m_size: 0
+    m_assetList:
+    - Assets/GameProject/RuntimeAssets/Sound/Bgm_AB/Ukulele Song.mp3
+  - m_bundleName: textures_ab.b
+    m_bundleHash: 53bf96bf56fe84e24c830418578347a7
+    m_bundleCRC: 500236360
+    m_realBundleName: textures_ab_53bf96bf56fe84e24c830418578347a7.b
+    m_size: 0
+    m_assetList:
+    - Assets/GameProject/RuntimeAssets/Textures_AB/SkyBox/5/5.mat
+    - Assets/GameProject/RuntimeAssets/Textures_AB/SkyBox/5/Back.png
+    - Assets/GameProject/RuntimeAssets/Textures_AB/SkyBox/5/Down.png
+    - Assets/GameProject/RuntimeAssets/Textures_AB/SkyBox/5/Front.png
+    - Assets/GameProject/RuntimeAssets/Textures_AB/SkyBox/5/Left.png
+    - Assets/GameProject/RuntimeAssets/Textures_AB/SkyBox/5/Right.png
+    - Assets/GameProject/RuntimeAssets/Textures_AB/SkyBox/5/Up.png
+  - m_bundleName: ui_clean&minimalist_ab.b
+    m_bundleHash: a14d13096beb10fc54f16aadf163215e
+    m_bundleCRC: 650067672
+    m_realBundleName: ui_clean&minimalist_ab_a14d13096beb10fc54f16aadf163215e.b
+    m_size: 0
+    m_assetList:
+    - Assets/Framework/UI/Resources/Sprites/Background.png
+  - m_bundleName: ui_common_ab.b
+    m_bundleHash: 3f4574e368aed39587a2ec0f0a5766cd
+    m_bundleCRC: 1070581217
+    m_realBundleName: ui_common_ab_3f4574e368aed39587a2ec0f0a5766cd.b
+    m_size: 0
+    m_assetList:
+    - Assets/GameProject/RuntimeAssets/UI/Common_AB/CommonUIPrefab.prefab
+    - Assets/GameProject/RuntimeAssets/UI/Common_AB/DialogBoxUIPrefab.prefab
+    - Assets/GameProject/RuntimeAssets/UI/Common_AB/OnScreen/Button.prefab
+    - Assets/GameProject/RuntimeAssets/UI/Common_AB/OnScreen/Stick.prefab
+    - Assets/GameProject/RuntimeAssets/UI/Common_AB/SettingsUIPrefab.prefab
+  - m_bundleName: ui_course_common_ab.b
+    m_bundleHash: a6911f4e4b59d77508209d8ab932834c
+    m_bundleCRC: 2293261941
+    m_realBundleName: ui_course_common_ab_a6911f4e4b59d77508209d8ab932834c.b
+    m_size: 0
+    m_assetList:
+    - Assets/GameProject/RuntimeAssets/UI/Course/Common_AB/CourseResultUIPrefab.prefab
+    - Assets/GameProject/RuntimeAssets/UI/Course/Common_AB/CourseSelectSS.uss
+    - Assets/GameProject/RuntimeAssets/UI/Course/Common_AB/CourseSelectUIPrefab.prefab
+    - Assets/GameProject/RuntimeAssets/UI/Course/Common_AB/CourseSelectXml.uxml
+    - Assets/GameProject/RuntimeAssets/UI/Course/Common_AB/CourseTypeSelectUIPrefab.prefab
+    - Assets/GameProject/RuntimeAssets/UI/Course/Common_AB/InCourse/CourseInputUIPrefab.prefab
+    - Assets/GameProject/RuntimeAssets/UI/Course/Common_AB/InCourse/CourseUIPrefab.prefab
+    - Assets/GameProject/RuntimeAssets/UI/Course/Common_AB/InCourse/ReadGoTimeline.playable
+    - Assets/GameProject/RuntimeAssets/UI/Course/Common_AB/InCourse/TestUIPrefab.prefab
+    - Assets/GameProject/RuntimeAssets/UI/Course/Common_AB/InCourse/Texture/progress.png
+    - "Assets/GameProject/RuntimeAssets/UI/Course/Common_AB/\u77E9\u5F62\u5012\u89D2xcf.png"
+  - m_bundleName: ui_course_insert_ab.b
+    m_bundleHash: 41c964b9e664a106150bf25297696b74
+    m_bundleCRC: 2250526324
+    m_realBundleName: ui_course_insert_ab_41c964b9e664a106150bf25297696b74.b
+    m_size: 0
+    m_assetList:
+    - Assets/GameProject/RuntimeAssets/UI/Course/Insert_AB/BubbleUIPrefab.prefab
+  - m_bundleName: ui_loading_ab.b
+    m_bundleHash: 9f489ed21e5017ecf873bbc7fa84cb19
+    m_bundleCRC: 2520178914
+    m_realBundleName: ui_loading_ab_9f489ed21e5017ecf873bbc7fa84cb19.b
+    m_size: 0
+    m_assetList:
+    - "Assets/GameProject/RuntimeAssets/UI/Loading_AB/APP\u56FE\u6807.jpg"
+    - Assets/GameProject/RuntimeAssets/UI/Loading_AB/LoadingImage.jpg
+    - Assets/GameProject/RuntimeAssets/UI/Loading_AB/OVR_Logo.jpg
+    - Assets/GameProject/RuntimeAssets/UI/Loading_AB/ProjectELoadingUIPrefab.prefab
+    - "Assets/GameProject/RuntimeAssets/UI/Loading_AB/\u7075\u7EF4\u57C3logo.jpg"
+    - "Assets/GameProject/RuntimeAssets/UI/Loading_AB/\u7EDF\u8BA1\u6559\u6539loading.jpg"
+  - m_bundleName: ui_sprites_ab.b
+    m_bundleHash: 06386b642f8450d8958d246a7c892205
+    m_bundleCRC: 3323717589
+    m_realBundleName: ui_sprites_ab_06386b642f8450d8958d246a7c892205.b
+    m_size: 0
+    m_assetList:
+    - Assets/GameProject/RuntimeAssets/UI/Sprites_AB/arrowDown.png
+    - Assets/GameProject/RuntimeAssets/UI/Sprites_AB/Arrow-Left-Icon_2.png
+    - Assets/GameProject/RuntimeAssets/UI/Sprites_AB/blue_cross.png
+    - Assets/GameProject/RuntimeAssets/UI/Sprites_AB/Circle-Border-White.png
+    - Assets/GameProject/RuntimeAssets/UI/Sprites_AB/controllerTilt.png
+    - Assets/GameProject/RuntimeAssets/UI/Sprites_AB/Frame_Selected_02.png
+    - Assets/GameProject/RuntimeAssets/UI/Sprites_AB/Icon_StarGold.png
+    - Assets/GameProject/RuntimeAssets/UI/Sprites_AB/Icon_StarGray.png
+    - Assets/GameProject/RuntimeAssets/UI/Sprites_AB/LiberationSans SDF.asset
+    - Assets/GameProject/RuntimeAssets/UI/Sprites_AB/Music-Icon.png
+    - Assets/GameProject/RuntimeAssets/UI/Sprites_AB/Music-Off.png
+    - Assets/GameProject/RuntimeAssets/UI/Sprites_AB/Pause-Icon.png
+    - Assets/GameProject/RuntimeAssets/UI/Sprites_AB/Play-Icon.png
+    - Assets/GameProject/RuntimeAssets/UI/Sprites_AB/Rectangle-Rounded.png
+    - Assets/GameProject/RuntimeAssets/UI/Sprites_AB/Settings-Icon.png
+  - m_bundleName: video_blackhole_ab.b
+    m_bundleHash: f608f7efaa8c27174aad8c8067566c13
+    m_bundleCRC: 4084630294
+    m_realBundleName: video_blackhole_ab_f608f7efaa8c27174aad8c8067566c13.b
+    m_size: 0
+    m_assetList:
+    - Assets/GameProject/RuntimeAssets/Video/BlackHole_AB/BlackHole.mp4
+    - Assets/GameProject/RuntimeAssets/Video/BlackHole_AB/BlackHole.png

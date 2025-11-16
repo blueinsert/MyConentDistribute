@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3287295064
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6bf65e79ffc8c89cd59804bc06d57df9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 1
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameProject/RuntimeAssets/Sound/Bgm_AB/Ukulele Song.mp3
+Dependencies: []

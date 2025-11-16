@@ -1,0 +1,59 @@
+ManifestFileVersion: 0
+CRC: 3052654761
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b118cab8f49d7c292f6fb2d22a40419c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+HashAppended: 1
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameProject/RuntimeAssets/Shader_AB/BubbleShader2.shader
+- Assets/GameProject/RuntimeAssets/Shader_AB/UI/UIGray_AA.shader
+- Assets/GameProject/RuntimeAssets/Shader_AB/BiopsyForcepsShaderGraph.shadergraph
+- Assets/GameProject/RuntimeAssets/Shader_AB/PathPointShader.shadergraph
+- Assets/GameProject/RuntimeAssets/Shader_AB/XinshengwuStype2ShaderGraph.shadergraph
+- Assets/GameProject/RuntimeAssets/Shader_AB/StomachShaderGraph_LesionMap.shadergraph
+- Assets/GameProject/RuntimeAssets/Shader_AB/UI/UIScreenEffect.shader
+- Assets/GameProject/RuntimeAssets/Shader_AB/UI/UISpine.shader
+- Assets/GameProject/RuntimeAssets/Shader_AB/UI/UIGray.shader
+- Assets/GameProject/RuntimeAssets/Shader_AB/StrightPipelineShaderGraph.shadergraph
+- Assets/GameProject/RuntimeAssets/Shader_AB/BlackHole.shader
+- Assets/GameProject/RuntimeAssets/Shader_AB/BubbleShader.mat
+- Assets/GameProject/RuntimeAssets/Shader_AB/LargeIntestineShaderGraph_LesionMap.shadergraph
+- Assets/GameProject/RuntimeAssets/Shader_AB/VideoShaderGraph.shadergraph
+- Assets/GameProject/RuntimeAssets/Shader_AB/StomachShaderGraph.shadergraph
+- Assets/GameProject/RuntimeAssets/Shader_AB/UI/UISpine2_SepAlpha.shader
+- Assets/GameProject/RuntimeAssets/Shader_AB/UI/UI_AA.shader
+- Assets/GameProject/RuntimeAssets/Shader_AB/VeryLongPipelineShaderGraph.shadergraph
+- Assets/GameProject/RuntimeAssets/Shader_AB/InjectNeedleShader.shadergraph
+- Assets/GameProject/RuntimeAssets/Shader_AB/UI/UISpine2_AA.shader
+- Assets/GameProject/RuntimeAssets/Shader_AB/UI/UIAlphaOnly.shader
+- Assets/GameProject/RuntimeAssets/Shader_AB/EndoscopeShaderGraph.shadergraph
+- Assets/GameProject/RuntimeAssets/Shader_AB/XinshengwuStype1ShaderGraph.shadergraph
+- Assets/GameProject/RuntimeAssets/Shader_AB/UI/UIAdditive_AA.shader
+- Assets/GameProject/RuntimeAssets/Shader_AB/UI/UISpine2.shader
+- Assets/GameProject/RuntimeAssets/Shader_AB/UI/UIBackground.shader
+- Assets/GameProject/RuntimeAssets/Shader_AB/LargeIntestineShaderGraph.shadergraph
+- Assets/GameProject/RuntimeAssets/Shader_AB/UI/UISpine_SepAlpha.shader
+- Assets/GameProject/RuntimeAssets/Shader_AB/BubbleShader.shader
+- Assets/GameProject/RuntimeAssets/Shader_AB/Swirl.shader
+- Assets/GameProject/RuntimeAssets/Shader_AB/UI/UIAdditive.shader
+- Assets/GameProject/RuntimeAssets/Shader_AB/StomachMaterial.shader
+- Assets/GameProject/RuntimeAssets/Shader_AB/dianguang.shadergraph
+Dependencies:
+- F:/WorkPlace/361N/Client/TargetProject/Build/AssetBundles/WebGL/model_biopsyforceps_ab_86e78b7f73335df050530d7ce2488912.b
+- F:/WorkPlace/361N/Client/TargetProject/Build/AssetBundles/WebGL/model_inspect_ab_f70ee4fda93c50e798152488ef7a65f5.b
+- F:/WorkPlace/361N/Client/TargetProject/Build/AssetBundles/WebGL/model_largeintestine_ab_b9b411a6d01cf0aa1f9fdc57cca48afc.b
+- F:/WorkPlace/361N/Client/TargetProject/Build/AssetBundles/WebGL/model_largeintestine_lesionmap_ab_57bd974e7a6402df0343a0f6420df2f3.b
+- F:/WorkPlace/361N/Client/TargetProject/Build/AssetBundles/WebGL/model_stomach_ab_959ddaa7e4ae535202dff0259d2e097c.b
+- F:/WorkPlace/361N/Client/TargetProject/Build/AssetBundles/WebGL/model_stomach_lesionmap_ab_5bfeb7012f938b3caa609280318dc1e2.b

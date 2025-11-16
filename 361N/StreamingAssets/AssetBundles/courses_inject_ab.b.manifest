@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 3368224733
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 45959a8bcc0d7ffd3d092715f4b83115
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c6798a8c6a5939c59a0356b21dbf184b
+HashAppended: 1
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 29069dbfa0e2c3a4bac0248ff4c8962a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 64f48e92c0e627349aa15526895f4e02, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2cb5a847a10a5984b9cabf49b40a0603, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 81e5b0a5c660c854e9c47bf22c461b2c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c2f66f75f8a20b3479b1b2c8239e051d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameProject/RuntimeAssets/Courses/Inject_AB/ConvexHullBubblePrefab.prefab
+- Assets/GameProject/RuntimeAssets/Courses/Inject_AB/Level/InjectCourseLevel4_Stright_R.prefab
+- Assets/GameProject/RuntimeAssets/Courses/Inject_AB/Level/InjectCourseLevel6_S_R.prefab
+- Assets/GameProject/RuntimeAssets/Courses/Inject_AB/Level/InjectCourseLevel5_C_R.prefab
+- Assets/GameProject/RuntimeAssets/Courses/Inject_AB/Level/InjectCourseLevel3_S.prefab
+- Assets/GameProject/RuntimeAssets/Courses/Inject_AB/Level/InjectCourseLevel1_Stright.prefab
+- Assets/GameProject/RuntimeAssets/Courses/Inject_AB/Level/InjectCourseLevel2_C.prefab
+Dependencies:
+- F:/WorkPlace/361N/Client/TargetProject/Build/AssetBundles/WebGL/shader_ab_b118cab8f49d7c292f6fb2d22a40419c.b

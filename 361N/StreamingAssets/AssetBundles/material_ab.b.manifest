@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 3688295221
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 28de452be7520509d20923f369ae5b7a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+HashAppended: 1
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameProject/RuntimeAssets/Material_AB/InjectNeedleMaterial.mat
+- Assets/GameProject/RuntimeAssets/Material_AB/LargeIntestineMaterial_LesionMap.mat
+- Assets/GameProject/RuntimeAssets/Material_AB/FourDirMaterial.mat
+- Assets/GameProject/RuntimeAssets/Material_AB/Xinshengwu1Material.mat
+- Assets/GameProject/RuntimeAssets/Material_AB/Red.mat
+- Assets/GameProject/RuntimeAssets/Material_AB/SkyBox.mat
+- Assets/GameProject/RuntimeAssets/Material_AB/StomachMaterial.mat
+- Assets/GameProject/RuntimeAssets/Material_AB/Xinshengwu3Material.mat
+- Assets/GameProject/RuntimeAssets/Material_AB/EndoscopeMaterial.mat
+- Assets/GameProject/RuntimeAssets/Material_AB/Xinshengwu2Material.mat
+- Assets/GameProject/RuntimeAssets/Material_AB/VideoMaterial.mat
+- Assets/GameProject/RuntimeAssets/Material_AB/BubbleMaterial.mat
+- Assets/GameProject/RuntimeAssets/Material_AB/Swirl.mat
+- Assets/GameProject/RuntimeAssets/Material_AB/StrightPipelineMaterial.mat
+- Assets/GameProject/RuntimeAssets/Material_AB/LargeIntestineMaterial.mat
+- Assets/GameProject/RuntimeAssets/Material_AB/PlaneMaterial.mat
+- Assets/GameProject/RuntimeAssets/Material_AB/DefaultMaterial.mat
+- Assets/GameProject/RuntimeAssets/Material_AB/EndGateMaterial.mat
+- Assets/GameProject/RuntimeAssets/Material_AB/PipelineMaterial.mat
+- Assets/GameProject/RuntimeAssets/Material_AB/RopeMaterial.mat
+- Assets/GameProject/RuntimeAssets/Material_AB/VerylongPipelineMaterial.mat
+- Assets/GameProject/RuntimeAssets/Material_AB/PathPointMaterial.mat
+- Assets/GameProject/RuntimeAssets/Material_AB/BlackHole.mat
+- Assets/GameProject/RuntimeAssets/Material_AB/StomachMaterial_LesionMap.mat
+Dependencies:
+- F:/WorkPlace/361N/Client/TargetProject/Build/AssetBundles/WebGL/model_inspect_ab_f70ee4fda93c50e798152488ef7a65f5.b
+- F:/WorkPlace/361N/Client/TargetProject/Build/AssetBundles/WebGL/model_largeintestine_ab_b9b411a6d01cf0aa1f9fdc57cca48afc.b
+- F:/WorkPlace/361N/Client/TargetProject/Build/AssetBundles/WebGL/model_largeintestine_lesionmap_ab_57bd974e7a6402df0343a0f6420df2f3.b
+- F:/WorkPlace/361N/Client/TargetProject/Build/AssetBundles/WebGL/model_stomach_ab_959ddaa7e4ae535202dff0259d2e097c.b
+- F:/WorkPlace/361N/Client/TargetProject/Build/AssetBundles/WebGL/model_stomach_lesionmap_ab_5bfeb7012f938b3caa609280318dc1e2.b
+- F:/WorkPlace/361N/Client/TargetProject/Build/AssetBundles/WebGL/shader_ab_b118cab8f49d7c292f6fb2d22a40419c.b
+- F:/WorkPlace/361N/Client/TargetProject/Build/AssetBundles/WebGL/video_blackhole_ab_f608f7efaa8c27174aad8c8067566c13.b
